@@ -1,6 +1,6 @@
 window.onload = function () {
   Particles.init({
-    selector: ".background"
+    selector: ".nav"
   });
 };
 const particles = Particles.init({
