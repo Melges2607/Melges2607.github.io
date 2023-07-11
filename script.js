@@ -4,7 +4,7 @@ window.onload = function () {
   });
 };
 const particles = Particles.init({
-  selector: ".background",
+  selector: ".nav",
   color: ["#03dac6", "#ff0266", "#000000"],
   connectParticles: true,
   responsive: [
