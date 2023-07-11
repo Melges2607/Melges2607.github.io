@@ -1,10 +1,10 @@
 window.onload = function () {
   Particles.init({
-    selector: ".nav"
+    selector: ".background"
   });
 };
 const particles = Particles.init({
-  selector: ".nav",
+  selector: ".background",
   color: ["#03dac6", "#ff0266", "#000000"],
   connectParticles: true,
   responsive: [
